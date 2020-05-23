@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Test 123");
         System.out.println("Hello git!");
         System.out.println("Hello git 2!");
+        System.out.println("Hello git 3!");
     }
 }
