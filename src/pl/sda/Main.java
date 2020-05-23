@@ -9,5 +9,7 @@ public class Main {
     //5. Przywrocenie wersji z remote
     public static void main(String[] args) {
         System.out.println("Test 123");
+        System.out.println("Hello git!");
+        System.out.println("Hello git 2!");
     }
 }
