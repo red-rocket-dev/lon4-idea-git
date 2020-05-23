@@ -7,5 +7,6 @@ public class Main {
     //3. Zaznacz plik -> Commit File (ewentualnie Git -> Commit File)
     //4. Zaznacz pliki -> Commit Files (ewentualnie Git -> Commit Files)
     public static void main(String[] args) {
+        System.out.println("Hello git!");
     }
 }
